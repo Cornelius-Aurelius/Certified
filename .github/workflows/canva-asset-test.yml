@@ -1,0 +1,29 @@
+name: Canva asset transfer test
+on:
+  push:
+    branches: [asset-test]
+permissions:
+  contents: write
+jobs:
+  test:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: asset-test
+      - name: Download staged image at full dimensions
+        env:
+          ASSET_URL: "https://media.canva.com/v2/image-resize/format:JPG/height:993/quality:90/uri:ifs%3A%2F%2FM%2F6de603aa-41b8-4e4b-ae04-84b5694f1299/watermark:F/width:1400?csig=AAAAAAAAAAAAAAAAAAAAAH5V8yaiAM2p0kjrEBBnw1dZRya7PTnpQNlhhOqzf0Ei&exp=1788231077&osig=AAAAAAAAAAAAAAAAAAAAACvwUw9cA-jebyC6w5yy53HrlxrC3ubES5nEh-1mBtY8&signer=media-rpc&x-canva-quality=thumbnail"
+        run: |
+          set -euxo pipefail
+          curl -fL "$ASSET_URL" -o test.jpg
+          file test.jpg | tee asset-result.txt
+          wc -c test.jpg | tee -a asset-result.txt
+      - name: Commit result
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add test.jpg asset-result.txt
+          git commit -m "Asset transfer test result" || exit 0
+          git push origin HEAD:asset-test
