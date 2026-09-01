@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#03070b">
+<title>Cornelius Aurelius | Certifications, Training & Applied Evidence</title>
+<meta name="description" content="Certifications, training, learning interests and applied digital performance evidence from Cornelius Aurelius.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section class="hero" aria-label="Certifications and training hero">
+  <img src="hero.webp" alt="Certifications and Training - continuous learning, real skills and applied knowledge">
+</section>
+<nav class="proof-nav" aria-label="Page sections">
+  <div class="wrap">
+    <div class="brand">CORNELIUS AURELIUS · <span>PROOF ARCHIVE</span></div>
+    <div class="navlinks">
+      <a href="#learning">What I learn</a><a href="#google">Google</a><a href="#marketing">Marketing</a><a href="#video-certificates">Video certificates</a><a href="#instagram">Applied evidence</a><a class="site-link" href="https://corneliusaurelius.com/">Main site ↗</a>
+    </div>
+  </div>
+</nav>
+<main>
+<section class="intro"><div class="wrap">
+  <div class="eyebrow">Continuous learning · applied knowledge</div>
+  <h1>I learn to <em>build, test and understand.</em></h1>
+  <p class="lead">This is not a collection of certificates for decoration. It is a record of subjects I have deliberately studied across search, analytics, advertising, e-commerce, content and commercial skills, alongside evidence from projects where I applied what I learned.</p>
+  <div class="principles">
+    <div class="principle"><strong>Curiosity first</strong><span>I tend to learn because I am trying to understand a system, solve a problem or build something new.</span></div>
+    <div class="principle"><strong>Technical + commercial</strong><span>My learning crosses analytics, search, advertising, content, e-commerce and business rather than staying inside one narrow discipline.</span></div>
+    <div class="principle"><strong>Applied, not theoretical</strong><span>The final section includes historical performance evidence from previous Instagram accounts I built and grew.</span></div>
+  </div>
+</div></section>
+<section class="content-section" id="learning"><div class="wrap">
+  <header class="section-head"><div><div class="number">00 · THINGS I KEEP LEARNING</div><h2>Subjects I naturally keep coming back to.</h2></div><p>I am most interested in subjects where technology, behaviour, data and strategy overlap. These are interests, not claims that I have mastered every area.</p></header>
+  <div class="learning-grid">
+    <article class="learning-card"><div class="learning-index">01</div><h3>AI</h3><p>How AI systems change research, discovery, workflows and what people expect from search.</p></article>
+    <article class="learning-card"><div class="learning-index">02</div><h3>AEO</h3><p>How answers are structured so information is easier for answer engines to understand and surface.</p></article>
+    <article class="learning-card"><div class="learning-index">03</div><h3>GEO</h3><p>How brands, entities and useful source material can become easier for generative systems to understand.</p></article>
+    <article class="learning-card"><div class="learning-index">04</div><h3>SEO</h3><p>Search behaviour, technical foundations, content structure, intent and discoverability.</p></article>
+    <article class="learning-card"><div class="learning-index">05</div><h3>Reading data</h3><p>Looking for what the numbers are actually saying before deciding what to change.</p></article>
+    <article class="learning-card"><div class="learning-index">06</div><h3>Customer behaviour</h3><p>Why people search, click, compare, trust, hesitate and choose.</p></article>
+    <article class="learning-card"><div class="learning-index">07</div><h3>Strategy</h3><p>Connecting individual actions to a wider objective instead of optimising isolated tasks.</p></article>
+    <article class="learning-card"><div class="learning-index">08</div><h3>Pattern recognition</h3><p>Finding repeated signals, anomalies and relationships across results, behaviour and systems.</p></article>
+    <article class="learning-card"><div class="learning-index">09</div><h3>Psychology</h3><p>Attention, trust, motivation, decision-making and how people interpret information.</p></article>
+    <article class="learning-card"><div class="learning-index">10</div><h3>Trends</h3><p>Watching how technology, platforms and behaviour shift over time and what those shifts may change.</p></article>
+  </div>
+</div></section>
+<section class="content-section" id="google"><div class="wrap">
+  <header class="section-head"><div><div class="number">01 · HIGHEST RELEVANCE</div><h2>Google certificates.</h2></div><p>Search, advertising, analytics and campaign-platform training shown first because these credentials are the most directly relevant to SEO, measurement and digital acquisition work.</p></header>
+  <div class="certificate-grid">
+    <article class="certificate-card priority"><button class="image-button" type="button" aria-label="Open Google Ads Video Certification full size"><img src="6.png" alt="Google Ads Video Certification" loading="lazy"></button><div class="certificate-copy"><span class="tag">Google Ads</span><h3>Google Ads Video Certification</h3><p>Google · 18 May 2021</p></div></article>
+    <article class="certificate-card priority"><button class="image-button" type="button" aria-label="Open Google Ads Display Certification full size"><img src="5.png" alt="Google Ads Display Certification" loading="lazy"></button><div class="certificate-copy"><span class="tag">Google Ads</span><h3>Google Ads Display Certification</h3><p>Google · 17 May 2021</p></div></article>
+    <article class="certificate-card priority"><button class="image-button" type="button" aria-label="Open Google Ads Search Certification full size"><img src="4.png" alt="Google Ads Search Certification" loading="lazy"></button><div class="certificate-copy"><span class="tag">Google Ads</span><h3>Google Ads Search Certification</h3><p>Google · 10 May 2021</p></div></article>
+    <article class="certificate-card priority"><button class="image-button" type="button" aria-label="Open Google Analytics Individual Qualification full size"><img src="3.png" alt="Google Analytics Individual Qualification" loading="lazy"></button><div class="certificate-copy"><span class="tag">Analytics</span><h3>Google Analytics Individual Qualification</h3><p>Google · 12 May 2021</p></div></article>
+    <article class="certificate-card priority"><button class="image-button" type="button" aria-label="Open Shopping Ads Certification full size"><img src="8.png" alt="Shopping Ads Certification" loading="lazy"></button><div class="certificate-copy"><span class="tag">Google Ads</span><h3>Shopping Ads Certification</h3><p>Google · 13 May 2021</p></div></article>
+    <article class="certificate-card priority"><button class="image-button" type="button" aria-label="Open Campaign Manager Certification Exam full size"><img src="7.png" alt="Campaign Manager Certification Exam" loading="lazy"></button><div class="certificate-copy"><span class="tag">Google Marketing Platform</span><h3>Campaign Manager Certification Exam</h3><p>Google · 19 May 2021</p></div></article>
+    <article class="certificate-card priority"><button class="image-button" type="button" aria-label="Open Creative Certification Exam full size"><img src="9.png" alt="Creative Certification Exam" loading="lazy"></button><div class="certificate-copy"><span class="tag">Google Marketing Platform</span><h3>Creative Certification Exam</h3><p>Google · 14 May 2021</p></div></article>
+  </div>
+</div></section>
+<section class="content-section" id="marketing"><div class="wrap">
+  <header class="section-head"><div><div class="number">02 · MARKETING KNOWLEDGE</div><h2>Marketing & advertising.</h2></div><p>Additional training across creative, email, social and retail advertising.</p></header>
+  <div class="certificate-grid">
+    <article class="certificate-card"><button class="image-button" type="button" aria-label="Open Creative Certification Exam full size"><img src="9.png" alt="Creative Certification Exam" loading="lazy"></button><div class="certificate-copy"><span class="tag">Google Marketing Platform</span><h3>Creative Certification Exam</h3><p>Google · 14 May 2021</p></div></article>
+    <article class="certificate-card"><button class="image-button" type="button" aria-label="Open HubSpot Email Marketing Certified full size"><img src="2.png" alt="HubSpot Email Marketing Certified" loading="lazy"></button><div class="certificate-copy"><span class="tag">HubSpot Academy</span><h3>HubSpot Email Marketing Certified</h3><p>HubSpot Academy · 20 May 2021</p></div></article>
+    <article class="certificate-card"><button class="image-button" type="button" aria-label="Open HubSpot Social Media Certified full size"><img src="1.png" alt="HubSpot Social Media Certified" loading="lazy"></button><div class="certificate-copy"><span class="tag">HubSpot Academy</span><h3>HubSpot Social Media Certified</h3><p>HubSpot Academy · 20 May 2021</p></div></article>
+    <article class="certificate-card"><button class="image-button" type="button" aria-label="Open Amazon Retail for Advertisers Certification full size"><img src="14.png" alt="Amazon Retail for Advertisers Certification" loading="lazy"></button><div class="certificate-copy"><span class="tag">Amazon Advertising</span><h3>Amazon Retail for Advertisers Certification</h3><p>United States · 20 May 2021</p></div></article>
+  </div>
+</div></section>
+<section class="content-section" id="video-certificates"><div class="wrap">
+  <header class="section-head"><div><div class="number">03 · BROADER TRAINING</div><h2>Certificate videos.</h2></div><p>Original short static certificate video records, paired with the title and date shown on each certificate.</p></header>
+  <div class="video-grid">
+    <article class="video-card"><div class="video-shell"><video controls playsinline preload="metadata" poster="assets/sales-negotiation.jpg"><source src="assets/sales.mp4" type="video/mp4"></video></div><div class="certificate-copy"><span class="tag">Sales & Negotiation</span><h3>Sales Skills & Negotiation Skills - Selling Masterclass 2021</h3><p>31 May 2021</p></div></article>
+    <article class="video-card"><div class="video-shell"><video controls playsinline preload="metadata" poster="assets/jlr-onboarding.jpg"><source src="assets/jlr.mp4" type="video/mp4"></video></div><div class="certificate-copy"><span class="tag">Professional Training</span><h3>Jaguar Land Rover - JLR On-Boarding</h3><p>13 July 2017</p></div></article>
+    <article class="video-card"><div class="video-shell"><video controls playsinline preload="metadata" poster="assets/facebook-ads-course.jpg"><source src="assets/facebook.mp4" type="video/mp4"></video></div><div class="certificate-copy"><span class="tag">Advertising</span><h3>The Complete Facebook Ads Course - Beginner to Advanced</h3><p>31 May 2021</p></div></article>
+    <article class="video-card"><div class="video-shell"><video controls playsinline preload="metadata" poster="assets/shopify-masterclass.jpg"><source src="assets/shopify.mp4" type="video/mp4"></video></div><div class="certificate-copy"><span class="tag">E-commerce</span><h3>Shopify Full MasterClass 2021 - I'm Crazy For Revealing This</h3><p>29 May 2021</p></div></article>
+    <article class="video-card"><div class="video-shell"><video controls playsinline preload="metadata" poster="assets/kdp-book-marketing.jpg"><source src="assets/kdp.mp4" type="video/mp4"></video></div><div class="certificate-copy"><span class="tag">Publishing & Marketing</span><h3>Bestseller Book Marketing: Amazon Kindle KDP Self-Publishing</h3><p>31 May 2021</p></div></article>
+  </div>
+</div></section>
+<section class="content-section" id="instagram"><div class="wrap">
+  <header class="section-head"><div><div class="number">04 · APPLIED EVIDENCE</div><h2>Historical Instagram performance.</h2></div><p>Evidence from previous Instagram accounts that I built and grew. These accounts are no longer active or controlled by me.</p></header>
+  <p class="evidence-note">These four images belong to the same historical evidence set, so they are intentionally presented without individual file labels.</p>
+  <div class="evidence-grid">
+    <button class="evidence-image image-button" type="button" aria-label="Open historical Instagram performance evidence"><img src="assets/instagram-1.webp" alt="Historical Instagram performance evidence" loading="lazy"></button>
+    <button class="evidence-image image-button" type="button" aria-label="Open historical Instagram performance evidence"><img src="assets/instagram-2.webp" alt="Historical Instagram performance evidence" loading="lazy"></button>
+    <button class="evidence-image image-button" type="button" aria-label="Open historical Instagram performance evidence"><img src="assets/instagram-3.webp" alt="Historical Instagram performance evidence" loading="lazy"></button>
+    <button class="evidence-image image-button" type="button" aria-label="Open historical Instagram performance evidence"><img src="assets/instagram-4.webp" alt="Historical Instagram performance evidence" loading="lazy"></button>
+  </div>
+</div></section>
+<section class="content-section" id="explore"><div class="wrap">
+  <header class="section-head"><div><div class="number">05 · CONTINUE EXPLORING</div><h2>More about my work.</h2></div><p>This proof archive is one part of my wider site. Continue into my main profile, projects and research from here.</p></header>
+  <div class="back-links"><a href="https://corneliusaurelius.com/">Main website <span>↗</span></a><a href="https://corneliusaurelius.com/about.html">About Cornelius <span>↗</span></a><a href="https://corneliusaurelius.com/projects.html">Projects <span>↗</span></a><a href="https://corneliusaurelius.com/research.html">Research <span>↗</span></a></div>
+</div></section>
+<section class="closing"><div class="wrap"><blockquote>“I don't learn simply to collect certificates. I learn because I am trying to <span>build something, understand something or solve a problem.</span>”</blockquote><p>The point of this page is to make the learning visible, while keeping the evidence itself easy to inspect.</p><a class="main-site-button" href="https://corneliusaurelius.com/">Back to CorneliusAurelius.com ↗</a></div></section>
+</main>
+<footer><div class="wrap footer-row"><span>Cornelius Aurelius · Certifications, training and historical applied evidence.</span><a href="https://corneliusaurelius.com/">corneliusaurelius.com ↗</a></div></footer>
+<div class="lightbox" id="lightbox" aria-hidden="true"><button class="lightbox-close" id="lightboxClose" type="button" aria-label="Close full-size image">×</button><img id="lightboxImage" alt=""></div>
+<script>
+const lightbox=document.getElementById('lightbox'),lightboxImage=document.getElementById('lightboxImage'),closeButton=document.getElementById('lightboxClose');
+document.querySelectorAll('.image-button img').forEach(img=>{img.closest('.image-button').addEventListener('click',()=>{lightboxImage.src=img.src;lightboxImage.alt=img.alt;lightbox.classList.add('open');lightbox.setAttribute('aria-hidden','false');document.body.style.overflow='hidden'})});
+function closeLightbox(){lightbox.classList.remove('open');lightbox.setAttribute('aria-hidden','true');lightboxImage.src='';document.body.style.overflow=''}
+closeButton.addEventListener('click',closeLightbox);lightbox.addEventListener('click',e=>{if(e.target===lightbox)closeLightbox()});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLightbox()});
+</script>
+</body>
+</html>
